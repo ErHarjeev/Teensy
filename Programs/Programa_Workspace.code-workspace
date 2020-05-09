@@ -6,6 +6,17 @@
 		{
 			"name": "Button",
 			"path": "Button"
+		},
+		{
+			"name": "dummy",
+			"path": "dummy"
+		},
+		{
+			"path": "DAC"
+		},
+		{
+			"name": "Float_Point_Test",
+			"path": "Float_Point_Test"
 		}
 	],
 	"settings": {}
