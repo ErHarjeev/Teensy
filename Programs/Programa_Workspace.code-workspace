@@ -21,6 +21,14 @@
 		{
 			"name": "Voltage Level Detection",
 			"path": "Voltage Level Detection"
+		},
+		{
+			"name": "SS1306 LCD Display",
+			"path": "SS1306 LCD Display"
+		},
+		{
+			"name": "Finite State Mahine Clock",
+			"path": "Finite State Mahine Clock"
 		}
 	],
 	"settings": {}
