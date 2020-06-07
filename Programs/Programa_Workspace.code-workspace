@@ -17,6 +17,10 @@
 		{
 			"name": "Float_Point_Test",
 			"path": "Float_Point_Test"
+		},
+		{
+			"name": "Voltage Level Detection",
+			"path": "Voltage Level Detection"
 		}
 	],
 	"settings": {}
